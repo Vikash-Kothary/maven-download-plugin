@@ -4,3 +4,8 @@ target
 .project
 *.iml
 .idea/
+*.jar
+.factorypath
+
+# checkstyle cache
+cache.file
